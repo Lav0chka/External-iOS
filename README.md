@@ -88,5 +88,6 @@ task_port_t task_for_pid_workaround(int Pid) {
 
 uisng this u may avoid a lot of anticheat systems and so on, **but not all.**
 
-
+so then ofc u can use vm_read/write to do anything.
+actually u can even call methods externally with remote threads and so on, kinda funny tho 
 
